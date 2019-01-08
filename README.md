@@ -14,7 +14,8 @@ Click to see [full image](https://github.com/kairess/image_mosaic/raw/master/res
 
 ### Black and White Image
 
-[![result.png](https://github.com/kairess/image_mosaic/raw/master/result/09_result.jpg)]()  
+Click to see [full image](https://github.com/kairess/image_mosaic/raw/master/result/09_bw.jpg) (6.8MB)
+[![result.png](https://github.com/kairess/image_mosaic/raw/master/result/09_result.jpg)](https://github.com/kairess/image_mosaic/raw/master/result/09_bw.jpg)  
 
 ## Dependencies
 - Python
