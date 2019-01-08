@@ -9,8 +9,8 @@ Image quantization using KMeans clustering
 
 [![result.png](https://github.com/kairess/image_mosaic/raw/master/result/01_result.jpg)]()  
 
-Click to see full image (14.2MB)
-[![result.png](https://github.com/kairess/image_mosaic/raw/master/result/result.jpg)](https://github.com/kairess/image_mosaic/raw/master/result/01_result.jpg)  
+Click to see [full image](https://github.com/kairess/image_mosaic/raw/master/result/01_color.jpg) (14.2MB)
+[![result.png](https://github.com/kairess/image_mosaic/raw/master/result/result.jpg)](https://github.com/kairess/image_mosaic/raw/master/result/01_color.jpg)  
 
 ### Black and White Image
 
